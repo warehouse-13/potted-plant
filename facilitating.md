@@ -1,3 +1,11 @@
+> It is important to enlist an experienced group facilitator that can impartially lead the meeting.
+> This person’s ability to be an efficient master of ceremonies is extremely important.
+> They are responsible for working through the agenda efficiently, ensuring the team is communicating
+> effectively, sensing areas where the team should deep-dive for awhile, and figuring out which
+> conversations that are going on too long should be paused so they can be worked out later with a smaller group.
+
+[_citation_](https://www.infoq.com/articles/project-inception-meeting/)
+
 # Inception Facilitator Guidelines
 
 _See also: [EqualExperts Inception Playbook](https://inception.playbook.ee/cheat-sheets)_
@@ -14,6 +22,34 @@ The plan is to get everyone on the same page.
 
 The Activities start from a very high level and by the end we should have "zoomed into" the individual tasks which we will have to
 complete to accomplish the Product Goals. The result at the end of all Activities should be a near fully-stocked backlog with stories all engineers would feel confident picking up immediately.
+
+An Inception must be completely neutral and not involved with the project in any way:
+you should have no skin in the game. If that is not you, try to find someone else.
+
+<!--
+To update the TOC, install https://github.com/kubernetes-sigs/mdtoc
+and run: mdtoc -inplace facilitating.md
+-->
+# TOC
+<!-- toc -->
+- [Pre-Inception/Activity Preparation](#pre-inceptionactivity-preparation)
+  - [Who to invite](#who-to-invite)
+- [Leading the Inception activities](#leading-the-inception-activities)
+  - [Facilitator Cheat Sheet](#facilitator-cheat-sheet)
+  - [Introducing Activities](#introducing-activities)
+- [Activity Breakdown](#activity-breakdown)
+  - [Motivation](#motivation)
+  - [Goals &amp; Non-Goals](#goals--non-goals)
+  - [Risks &amp; Mitigations](#risks--mitigations)
+  - [Actors/Personas/Users](#actorspersonasusers)
+  - [Activities/User Flows](#activitiesuser-flows)
+  - [Story Mapping](#story-mapping)
+  - [Goals &amp; Risks Revisited](#goals--risks-revisited)
+  - [Parking Lot](#parking-lot)
+  - [Retro](#retro)
+  - [Story Templating &amp; Pointing](#story-templating--pointing)
+- [Additional Notes and Minutes](#additional-notes-and-minutes)
+<!-- /toc -->
 
 ## Pre-Inception/Activity Preparation
 
@@ -35,6 +71,29 @@ in-depth discussions. Before any Inception activity is even suggested, it is pre
 
 If all participants have not had time to thoroughly read and understand all material around the product,
 then any Inception activities must be pushed back.
+
+### Who to invite
+
+The core engineering team, the product manager and any major stakeholders.
+
+Stakeholders include:
+- Clients
+  - These can be internal (another team consuming the api) or external
+- Product people
+- Sales people
+- Marketing people
+- Other upstream or downstream team representatives
+- Support teams
+
+Attendees should be limited to around 10, since group participation becomes harder
+after that point.
+
+Ensure that whoever you do invite knows why they are there and what is expected of them.
+
+If a sponsor or stakeholder cannot make the time to attend this single important
+meeting yet still wants to heavily influence or control the project decisions,
+then that is a signal that the team may not get the support and attention it needs
+and deserves both now and in the future.
 
 ## Leading the Inception activities
 
@@ -65,8 +124,10 @@ Here are some principles/tips to bear in mind:
 - Direct proceedings and show leadership, but allow everyone else to participate – especially the quiet ones, who will often make high-value contributions when given space to do so. If you notice someone has not spoken much, invite them to do so (ensure they know it is fine to say "I don't know" so they don't feel pressured if they feel insecure.)
 - Try not to push your own opinions or agenda. Your purpose is to keep the conversation of _others_ moving, so try to talk as little as possible and encourage all the other participants to do so by asking targeted and succinct questions.
 - Don't forget to record sessions!
-- Remember to let people take regular scheduled breaks. Make sure they are back on time. If you sense people flagging, throw in some extra 5 min breaks.
+- Remember to let people take regular scheduled breaks (5-10 minutes every hour). Make sure they are back on time. If you sense people flagging, throw in some extra 5 min breaks.
 - If running remotely, take even more breaks and make sure people get up and move around. Remote inceptions are way more exhausting than in-person ones.
+- Again for remote inceptions: try to ensure everyone uses the best remote presence technology available such as high quality microphones and stand-alone video cameras
+
 
 ### Introducing Activities
 
