@@ -61,9 +61,8 @@ Inceptions can also be run to realign around an existing project which has been 
 They are also a great chance for engineers to ask all the questions, get exited about
 and really take ownership of a project/product.
 
-An Inception is a **team sport**, and every attendee is expected to play their part
-fully at every stage. Poor or lazy participation by attendees is the easiest way to make
-an Inception a waste of everybody's time. There are no free rides in Inceptions.
+An Inception is a **team sport**, and every attendee is encouraged to play their part
+at every stage.
 
 Sometimes an Inception results in the healthy early discovery that stakeholders and
 goals for the project are unclear and additional work needs to be done to refine and
