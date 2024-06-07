@@ -23,7 +23,7 @@ The plan is to get everyone on the same page.
 The Activities start from a very high level and by the end we should have "zoomed into" the individual tasks which we will have to
 complete to accomplish the Product Goals. The result at the end of all Activities should be a near fully-stocked backlog with stories all engineers would feel confident picking up immediately.
 
-An Inception must be completely neutral and not involved with the project in any way:
+An Inception facilitator must be completely neutral and not involved with the project in any way:
 you should have no skin in the game. If that is not you, try to find someone else.
 
 <!--
